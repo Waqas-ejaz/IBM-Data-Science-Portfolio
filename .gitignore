@@ -1,0 +1,11 @@
+# Jupyter Notebooks - Practice files
+**/Practice.ipynb
+
+# Confidential or personal work
+# Add file names or patterns here that shouldn't be tracked
+
+# Common ignores
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
